@@ -1,6 +1,6 @@
 class Person
   
-  def 
+  def initialize
 end 
 
 
